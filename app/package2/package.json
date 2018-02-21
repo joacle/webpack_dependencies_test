@@ -1,0 +1,14 @@
+{
+  "name": "dependency_issue_p2",
+  "version": "1.0.2",
+  "description": "",
+  "main": "test2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dependency_issue_utils": "2.0.0"
+  }
+}
